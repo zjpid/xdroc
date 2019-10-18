@@ -1,2 +1,3 @@
 # xdu
-first use the github
+$ mkdir blog
+$ cd blog
